@@ -1,0 +1,16 @@
+table{
+    margin: 0%;
+    padding: 0%;
+    border: solid 2px;
+}
+td{
+    margin: 0%;
+    padding: 0%;
+    border: solid 1px #dddde0;
+}
+th{
+    margin: 0%;
+    padding: 0%;
+    border-bottom: solid 2px;
+    border-right: solid 2px;
+}
